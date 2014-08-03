@@ -1,0 +1,9 @@
+[submodule "node"]
+	path = node
+	url = git@github.com:Bren2010/WireDB-Node.git
+[submodule "aia"]
+	path = aia
+	url = git@github.com:Bren2010/WireDB-AIA.git
+[submodule "tracker"]
+	path = tracker
+	url = git@github.com:Bren2010/WireDB-Tracker.git
